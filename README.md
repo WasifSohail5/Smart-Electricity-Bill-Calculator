@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-2.0-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Last Updated](https://img.shields.io/badge/Updated-2025--04--03-blue)
-![Author](https://img.shields.io/badge/Author-WasifSohail5-lightgrey)
+![Author](https://img.shields.io/badge/Author-Wasif_Sohail-lightgrey)
 
 </div>
 
