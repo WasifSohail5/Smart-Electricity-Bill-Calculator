@@ -9,11 +9,7 @@ public class Main {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-
-            // Create splash screen
             SplashScreen splash = new SplashScreen(3000);
-
-            // Show splash and launch main application when done
             splash.showSplashAndExit(() -> {
                 new EnhancedElectricityCalculator();
             });
