@@ -195,7 +195,7 @@ java -jar ElectricityCalculator.jar
 
 ## 👨‍💻 About the Developer
 
-This application was created by [Wasif-Sohail55](https://github.com/WasifSohail5) to help consumers understand and manage their electricity expenses efficiently. The project combines practical utility with modern UI/UX principles to deliver an exceptional user experience.
+This application was created by [Wasif-Sohail](https://github.com/WasifSohail5) to help consumers understand and manage their electricity expenses efficiently. The project combines practical utility with modern UI/UX principles to deliver an exceptional user experience.
 
 ---
 
