@@ -53,23 +53,30 @@ The Smart Electricity Bill Calculator is a desktop application that simplifies t
 ## 📱 Application Screenshots
 
 <div align="center">
-  <p><b>Main Dashboard & Bill Calculator</b></p>
-  <img src="screenshots/main-interface.png" alt="Main Interface" width="80%"/>
-</div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <p><b>Device Management</b></p>
-        <img src="screenshots/device-manager.png" alt="Device Manager" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <p><b>Usage Analytics</b></p>
-        <img src="screenshots/usage-analytics.png" alt="Usage Analytics" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <p><b>🏠 Home Screen</b></p>
+      <img src="screenshots/home.png" alt="Home Screen" width="300"/>
+    </td>
+    <td align="center">
+      <p><b>🧮 Calculator</b></p>
+      <img src="screenshots/calculator.png" alt="Calculator" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><b>🔌 Device Manager</b></p>
+      <img src="screenshots/devices.png" alt="Devices" width="300"/>
+    </td>
+    <td align="center">
+      <p><b>⚙️ Settings Panel</b></p>
+      <img src="screenshots/settings.png" alt="Settings" width="300"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
